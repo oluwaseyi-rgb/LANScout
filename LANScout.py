@@ -7,7 +7,7 @@ Requirements:
     Run with sudo/admin privileges for best results.
 
 Usage:
-    sudo python3 wifi_scanner.py
+    sudo python3 LANScout.py
 """
 
 import subprocess
